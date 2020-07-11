@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">APP</string>
+
+    <string-array name="Spinner_options">
+        <item>USER</item>
+        <item>ORGANIZATION</item>
+    </string-array>
 </resources>
